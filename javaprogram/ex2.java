@@ -4,7 +4,7 @@ public class Hello
 	public static void main(String[] args) 
 	{
 		
-                  System.out.print("haiiiiii");
+                  System.out.pt("haiiiiii");
 	}
 
 }
